@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning MERN stack
 -  Language and Tools: HTML, CSS, JavaScript, React, Java
 - 📫 How to reach me priyavarshney070497@gmail.com
+-  Portfolio: https://priya-varshney-portfolio.vercel.app/
 
 <!---
 priyaa74/priyaa74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
