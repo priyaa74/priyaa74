@@ -1,9 +1,16 @@
-- 👋 Hi, I’m Priya Varshney
--  Aspiring Full Stack Web Developer at Masai School
-- 🌱 I’m currently learning MERN stack
--  Language and Tools: HTML, CSS, JavaScript, React, Java
-- 📫 How to reach me priyavarshney070497@gmail.com
--  Portfolio: https://priya-varshney-portfolio.vercel.app/
+# Hi I'm Priya 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-07--priya--varshney-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/07-priya-varshney/)](https://www.linkedin.com/in/07-priya-varshney/)
+[![Twitter Badge](https://img.shields.io/badge/-%40PriyaVa22310248-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PriyaVa22310248)](https://twitter.com/PriyaVa22310248)
+[![Website Badge](https://img.shields.io/badge/-priya--varshney-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://priya-varshney-portfolio.vercel.app/)](https://priya-varshney-portfolio.vercel.app/)
+[![Gmail Badge](https://img.shields.io/badge/-priyavarshney070497-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:priyavarshney070497@gmail.com)](mailto:priyavarshney070497@gmail.co)
+
+Welcome to my profile! I'm an aspiring Full Stack Web Developer currently learning MERN Stack at Masai School. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/07-priya-varshney/)!
+
+<hr/>
+
+-  Language and Tools: HTML, CSS, JavaScript, React, Redux, Java
+
 
 <!---
 priyaa74/priyaa74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
