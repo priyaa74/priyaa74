@@ -63,5 +63,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 <hr/>
 
+![](https://komarev.com/ghpvc/?username=priyaa74&color=green)
+
 ### Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/07-priya-varshney/)!
 
