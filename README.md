@@ -9,6 +9,7 @@
 Welcome to my profile! I'm an aspiring Full Stack Web Developer. 
 
  - 🌱 Currently learning MERN Stack at Masai School
+ - 🔥 I write code on [Leetcode](https://leetcode.com/priyavarshney/)
  - 💬 Brainstorm with me over tech, algorithms, career, music and food recipes
  - 😄 Pronouns: Web Developer/She/Her/Hers
  - 💼 any freelance work? do reach, [email](mailto:priyavarshney070497@gmail.com) :)
